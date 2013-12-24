@@ -21,24 +21,24 @@ public class Texts {
 
     // Begin: DoomThemAll
     public static final String GAME_SCORE = "Score";
-    public static final String GAME_TEAM_RED = "Team Red";
-    public static final String GAME_TEAM_BLUE = "Team Blue";
-    public static final String GAME_PLAYER_JOINED = " §6joined the game.";
-    public static final String GAME_PLAYER_LEFT = " §6left the game.";
-    public static final String GAME_JOINED_TEAM_RED = "§6You joined team §cRED§6!";
-    public static final String GAME_JOINED_TEAM_BLUE = "§6You joined team §9BLUE§6!";
+    public static final String GAME_TEAM_RED = "Team Rot";
+    public static final String GAME_TEAM_BLUE = "Team Blau";
+    public static final String GAME_PLAYER_JOINED = " §6ist dem Spiel beigetreten.";
+    public static final String GAME_PLAYER_LEFT = " §6hat das Spiel verlassen.";
+    public static final String GAME_JOINED_TEAM_RED = "§6Du bist Team §cROT§6 beigetreten!";
+    public static final String GAME_JOINED_TEAM_BLUE = "§6Du bist Team §9BLAU§6 beigetreten!";
     public static final String GAME_TEAM_DISTRIBUTION = "§6Distribution: §c%inRed / §9%inBlue";
     public static final String GAME_SCORE_HEAD = "§8-------------=[ §6Final Score §8]=-------------";
-    public static final String GAME_SCORE_RED = "§cTeam Red:§7 %score Kills";
-    public static final String GAME_SCORE_BLUE = "§9Team Blue:§7 %score Kills";
+    public static final String GAME_SCORE_RED = "§cTeam Rot:§7 %score Kills";
+    public static final String GAME_SCORE_BLUE = "§9Team Blau:§7 %score Kills";
 
-    public static final String GAME_HOWTO_SHOTGUN = "Take this powerful Shotgun and shoot it with an right-click.";
-    public static final String GAME_RELOAD_SHOTGUN = "§6Reload-time: ";
-    public static final String GAME_HOWTO_GRENADE = "Throw your grenades with an right-click.";
-    public static final String GAME_RELOAD_GRENADE = "§6Respawn: Kill an enemy.";
+    public static final String GAME_HOWTO_SHOTGUN = "Nehme diese Shotgun und feuer sie mit Rechts-Klick.";
+    public static final String GAME_RELOAD_SHOTGUN = "§6Nachlade-Zeit: ";
+    public static final String GAME_HOWTO_GRENADE = "Werfe deine Granatie mit Rechts-Klick.";
+    public static final String GAME_RELOAD_GRENADE = "§6Respawn: Kill ein Feind.";
 
     public static final String GAME_START_MULTIPLE = "§4You can not start the game multiple times.";
-    public static final String GAME_START_NO_PLAYERS = "§4There are not enough players in this arena.";
+    public static final String GAME_START_NO_PLAYERS = "§4Es sind nicht genuegend Spieler im Spiel.";
     public static final String GAME_ALREADY_INGAME = "§4You are already in-game. Why do you want to join again?";
     public static final String GAME_ALREADY_STOPPED = "§4This game has already ended.";
 
